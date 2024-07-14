@@ -1,2 +1,2 @@
 # example-jupyter-markdown-colab
-This is from Coursera's "Introduction to Cloud Computing" course.
+This repository contains examples from Coursera's "Introduction to Cloud Computing" course.
